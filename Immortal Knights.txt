@@ -1,0 +1,207 @@
+{
+  "games" : [ {
+    "gameName" : "Total Domination 3rd Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Captain Shroudheart",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Generals",
+        "unitCost" : 0.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Commander Stout",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Generals",
+        "unitCost" : 0.0,
+        "unitID" : 3,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Officer Slinger",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Generals",
+        "unitCost" : 0.0,
+        "unitID" : 4,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Captain Standlong",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Generals",
+        "unitCost" : 0.0,
+        "unitID" : 5,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[10]Longswordsmen",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 7,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Archers",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 8,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "[5]Cavalry",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Troops",
+        "unitCost" : 0.0,
+        "unitID" : 9,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ancient Dragon",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Beasts of War",
+        "unitCost" : 0.0,
+        "unitID" : 10,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hydra",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Beasts of War",
+        "unitCost" : 0.0,
+        "unitID" : 11,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Hecate",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 15,
+          "optionName" : "Beligerent Curses",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 16,
+          "optionName" : "Summon Bear",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 18,
+          "optionName" : "Horrific Conjurations",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 19,
+          "optionName" : "Enchantment of Undead",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 20,
+          "optionName" : "Kingslayers Talisman",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 22,
+          "optionName" : "Staff of Befuddlement",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Sorcerers",
+        "unitCost" : 0.0,
+        "unitID" : 12,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Merlin",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 23,
+          "optionName" : "Excalibur",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 24,
+          "optionName" : "Round Table",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Sorcerers",
+        "unitCost" : 0.0,
+        "unitID" : 13,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Morgan Le Fay",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 25,
+          "optionName" : "Casting Bones",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 26,
+          "optionName" : "Dreadful Incantations",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 27,
+          "optionName" : "Hood of the Unseen",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 28,
+          "optionName" : "Druidic Carvings",
+          "autoAddDictionary" : { },
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Sorcerers",
+        "unitCost" : 0.0,
+        "unitID" : 14,
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Immortal Knights",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Generals", "Troops", "Artillery", "Beasts of War", "Scouts", "Fortifications", "Special Units", "Sorcerers" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
