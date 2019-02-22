@@ -1,0 +1,15 @@
+{
+  "games" : [ {
+    "gameName" : "Total Domination 3rd Edition",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Half Folks",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Generals", "Troops", "Artillery", "Beasts of War", "Scouts", "Fortifications", "Special Units", "Sorcerers" ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
