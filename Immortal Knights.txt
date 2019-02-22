@@ -8,7 +8,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Generals",
-        "unitCost" : 0.0,
+        "unitCost" : 220.0,
         "unitID" : 2,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -17,7 +17,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Generals",
-        "unitCost" : 0.0,
+        "unitCost" : 110.0,
         "unitID" : 3,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -26,7 +26,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Generals",
-        "unitCost" : 0.0,
+        "unitCost" : 155.0,
         "unitID" : 4,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -35,7 +35,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Generals",
-        "unitCost" : 0.0,
+        "unitCost" : 200.0,
         "unitID" : 5,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -44,7 +44,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
-        "unitCost" : 0.0,
+        "unitCost" : 100.0,
         "unitID" : 7,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -53,7 +53,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
-        "unitCost" : 0.0,
+        "unitCost" : 60.0,
         "unitID" : 8,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -62,7 +62,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Troops",
-        "unitCost" : 0.0,
+        "unitCost" : 125.0,
         "unitID" : 9,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -71,7 +71,7 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Beasts of War",
-        "unitCost" : 0.0,
+        "unitCost" : 350.0,
         "unitID" : 10,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
@@ -80,49 +80,49 @@
         "listOfOptions" : null,
         "listOfRestrictions" : null,
         "unitCategory" : "Beasts of War",
-        "unitCost" : 0.0,
+        "unitCost" : 220.0,
         "unitID" : 11,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Hecate",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
+          "optionCost" : 5.0,
           "listOfRestrictions" : null,
           "optionID" : 15,
           "optionName" : "Beligerent Curses",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 16,
           "optionName" : "Summon Bear",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 18,
           "optionName" : "Horrific Conjurations",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 15.0,
           "listOfRestrictions" : null,
           "optionID" : 19,
           "optionName" : "Enchantment of Undead",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 20,
           "optionName" : "Kingslayers Talisman",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 50.0,
           "listOfRestrictions" : null,
           "optionID" : 22,
           "optionName" : "Staff of Befuddlement",
@@ -131,21 +131,21 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Sorcerers",
-        "unitCost" : 0.0,
+        "unitCost" : 135.0,
         "unitID" : 12,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Merlin",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 23,
           "optionName" : "Excalibur",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 100.0,
           "listOfRestrictions" : null,
           "optionID" : 24,
           "optionName" : "Round Table",
@@ -154,35 +154,35 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Sorcerers",
-        "unitCost" : 0.0,
+        "unitCost" : 300.0,
         "unitID" : 13,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
       }, {
         "unitName" : "Morgan Le Fay",
         "listOfOptions" : [ {
-          "optionCost" : 0.0,
+          "optionCost" : 25.0,
           "listOfRestrictions" : null,
           "optionID" : 25,
           "optionName" : "Casting Bones",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 10.0,
           "listOfRestrictions" : null,
           "optionID" : 26,
           "optionName" : "Dreadful Incantations",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 2.0,
           "listOfRestrictions" : null,
           "optionID" : 27,
           "optionName" : "Hood of the Unseen",
           "autoAddDictionary" : { },
           "listOfCurrencies" : { }
         }, {
-          "optionCost" : 0.0,
+          "optionCost" : 30.0,
           "listOfRestrictions" : null,
           "optionID" : 28,
           "optionName" : "Druidic Carvings",
@@ -191,7 +191,7 @@
         } ],
         "listOfRestrictions" : null,
         "unitCategory" : "Sorcerers",
-        "unitCost" : 0.0,
+        "unitCost" : 90.0,
         "unitID" : 14,
         "autoAddDictionary" : { },
         "listOfCurrencies" : { }
