@@ -5,7 +5,7 @@
       "listOfRestrictions" : null,
       "listOfUnits" : null,
       "listOfEquipmentOptions" : null,
-      "armyName" : "Half Folks",
+      "armyName" : "Half Folk",
       "armyCategories" : [ ]
     } ],
     "gameCategories" : [ "Generals", "Troops", "Artillery", "Beasts of War", "Scouts", "Fortifications", "Special Units", "Sorcerers" ],
